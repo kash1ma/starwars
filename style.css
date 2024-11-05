@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(29, 29, 29);
+  color: wheat;
+}
+
+a {
+  background-color: rgb(29, 29, 29) !important;
+  color: wheat !important;
+}
+
+.card-body {
+  background-color: rgb(29, 29, 29);
+  color: wheat;
+}
+
+li {
+  background-color: rgb(29, 29, 29) !important;
+  color: wheat !important;
+}
